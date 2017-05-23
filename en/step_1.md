@@ -1,121 +1,46 @@
-# New project
+--- step ---
+## Enabling Google's Assistant API
 
-Each project contains a set of directories for each language, you're set up now with an `en` directory that contains the necessary files to get you going.
+- Navigate to [Google's Cloud Platform](https://console.cloud.google.com/home/dashboard?project=ayi-led) and ensure you are logged into you Google Account
 
-* [meta.yml](#metayml)
-* [Steps - step_1.md, step_2.md, etc](#steps)
+- You need to create a new project to get started. If you have no existing projects then click on the **Create** button. If you have existing projects you can click on the **Select a project** drop down.
 
+![cloud console](images/1-cloud-console.png)
 
-## meta.yml
+- If you clicked the dropdown, then you can  can click on the **+** symbol to create a new project.
 
-The `meta.yml` file sets lots of basic information for the project.
+![name project](images/2-create-project.png)
 
-``` yml
-title: The title of the project
-hero_image: images/banner.png # The image used on the listing view
-subtitle: Project subtitle # Used on the listing view
-description: Project description # Used on the listing view
-published: false # A boolean - `true` or`false` - that controls whether the project will appear on the listing view
-steps: # A list of all the steps
-  - title: How to get started # Used as the sidebar title for the step
-    duration: 60 # Not used yet
-```
+- Give your project a name (it doesn't matter what you call it), and then click on **Create*.
 
-## Steps
+![name project](images/3-project-name.png)
 
-* [Links](#links)
-* [Resources](#resources)
-* [Images](#images)
-* [Challenges](#challenges)
-* [Definitions](#definitions)
-* [Hints](#hints)
-* [Collapsed ingredients](#collapsed-ingredients)
+- Check that your project appears in the drop down, as shown below.
 
-Project steps are written in the [Kramdown](https://kramdown.gettalong.org/) variety of markdown. There is a [quick reference guide](https://kramdown.gettalong.org/quickref.html) and [full syntax documentation](https://kramdown.gettalong.org/syntax.html). A [custom kramdown extension](https://github.com/RaspberryPiFoundation/kramdown_rpf) is used for hints, challenges & collapsed ingredients.
+![dropdown](images/5-project-dropdown.png)
 
-### Links, resources & images
+- If it doesn't then you can click on the drop down and then select **all** from the popup, to find and select your project.
 
-See [kramdown documentation](https://kramdown.gettalong.org/quickref.html#links-and-images) for more details.
+![select project](images/4-select-project.png)
 
-#### Links
+- Now you need to click on the **API Manager**
 
-A [link](http://kramdown.gettalong.org) to the kramdown homepage.
+![api manager](images/6-api-manager.png)
 
-#### Resources
+- Then click on the **ENABLE API** link.
 
-A [link to a file in the resources directory](resources/worksheet.pdf){:download='filename.pdf'}. The download part will make the file automatically download rather than be rendered in the browser, the filename you'd like the file to be saved with is the second bit after the `=`. The `/slash learning` application will ensure the resource is available.
+![enable api](images/7-enable-api.png)
 
-#### Images
+- Use the search box to find the **Google Assistant API**.
 
-![Banner image](images/banner.png) - the link text becomes the alternative text for the image. The `/slash learning` application will ensure the image is available.
+![assistant api](images/8-assistant-api.png)
 
-#### Challenges
+- Once you have selected the API, click on the **ENABLE** link.
 
-``` markdown
---- challenge ---
+![enable assistant](images/9-assistant-enable.png)
 
-## Challenge: Improving your drum
+- Now, click on the **Credentails** link in the side bar, to create some new credentials.
 
-* Any markdown in here
-* will be parsed as normal
+![assistant credentials](images/10-assistant-credentials.png)
 
---- /challenge ---
-```
-
-
-### Definitions
-
-Definitions can be written using HTML abbreviations, which are a standard part of [kramdown](https://kramdown.gettalong.org/quickref.html#abbreviations)
-
-```
-To do this you might require a variable or a two word definition.
-
-*[variable]: An object that has a name and stores a value.
-
-*[two word]: Definitions are markdown, and can have [links](http://kramdown.gettalong.org) etc
-```
-
-
-### Hints
-
-A header for the hint, and all the html markup for hints will be automatically added.
-
-```
---- hints ---
---- hint ---
-
-Here's a hint of how to do this project.
-
-Any markdown you like within a hint:
-* item 1
-* item 2
-
---- /hint ---
---- hint ---
-Hint 2
-
---- /hint ---
---- hint ---
-
-Hint 3
---- /hint ---
---- hint ---
-Hint 4
---- /hint ---
-
---- /hints ---
-```
-
-### Collapsed ingredients
-
-Set the title and the image from within the `collapse` area. The image must exist in **this** project, not the ingredient.
-
---- collapse ---
----
-title: Downloading and installing the Raspberry Pi software
-image: images/scratch.png
----
-
-[[[generic-scratch-new-project]]]
-
---- /collapse ---
+- 
