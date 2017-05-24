@@ -7,7 +7,7 @@
 
 ![cloud console](images/1-cloud-console.png)
 
-- If you clicked the dropdown, then you can  can click on the **+** symbol to create a new project.
+- If you clicked the drop-down, then you can  can click on the **+** symbol to create a new project.
 
 ![name project](images/2-create-project.png)
 
@@ -39,8 +39,30 @@
 
 ![enable assistant](images/9-assistant-enable.png)
 
-- Now, click on the **Credentails** link in the side bar, to create some new credentials.
+- Now, click on the **Credentials** link in the side bar, to create some new credentials.
 
 ![assistant credentials](images/10-assistant-credentials.png)
 
-- 
+- Next you can create your credentials, selecting **OAuth client ID** from the drop down menu.
+
+![create credentials](images/11-create-credentials.png)
+
+- You're now going to need to configure the consent screen.
+
+![configure consent](images/12-assistant-consent.png)
+
+- You can type in your email address, and project name into the boxes and leave the other fields blank if you like. Then save the screen setup.
+
+![consent 2](images/13-assistant-consent2.png)
+
+- On the main screen, you can now choose **Other** as your application type and give it any name you choose. Then click **Create**.
+
+![oauth2](images/14-assistant-oauth2.png)
+
+- You should be presented with your **client ID** and **client secret**. You can just click on **OK** though, as you're going to just download a **json** file with these details in them.
+
+![secrets](images/15-assistant-secrets.png)
+
+- Click on the **Download** icon to download your secrets to your computer, and you should be finished.
+
+![download secrets](images/16-assistant-download.png)
