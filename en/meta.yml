@@ -1,10 +1,12 @@
-title: generic-api-google-assistant
+title: Register for the Google Assistant API
 hero_image: images/banner.png
-subtitle: generic-api-google-assistant subtitle
-description: generic-api-google-assistant description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: How to register the Google Assistant API
+original_url:
 theme: cc-prototype
-published: false
+duration: 1
+listed: false
+ingredient: true
+interests:
+technology: "api"
 steps:
-  - title: Step one
-    duration: 60
+  - title: Register the API
