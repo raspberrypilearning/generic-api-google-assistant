@@ -1,5 +1,3 @@
-## Enabling Google's Assistant API
-
 - Navigate to [Google's Cloud Platform](https://console.cloud.google.com/home/dashboard?project=ayi-led) and ensure you are logged into you Google Account
 
 - You need to create a new project to get started. If you have no existing projects then click on the **Create** button. If you have existing projects you can click on the **Select a project** drop down.
