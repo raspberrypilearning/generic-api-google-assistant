@@ -4,7 +4,7 @@
 
 	![cloud console](images/1-cloud-console.png)
 
-- If you clicked the drop-down, you can click on the **+** symbol to create a new project.
+- If you clicked the drop-down menu, you can click on the **+** symbol to create a new project.
 
 	![name project](images/2-create-project.png)
 
