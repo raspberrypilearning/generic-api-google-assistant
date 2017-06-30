@@ -20,7 +20,7 @@
 
 	![select project](images/4-select-project.png)
 
-- Now you need to click on the **API Manager**
+- Now you need to click on the **API Manager**.
 
 	![api manager](images/6-api-manager.png)
 
