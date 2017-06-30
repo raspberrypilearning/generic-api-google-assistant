@@ -16,7 +16,7 @@
 
 	![dropdown](images/5-project-dropdown.png)
 
-- If it doesn't, click on the drop down and then select **all** from the popup to find and select your project.
+- If it doesn't, click on the drop down and then select **All** from the popup to find and select your project.
 
 	![select project](images/4-select-project.png)
 
