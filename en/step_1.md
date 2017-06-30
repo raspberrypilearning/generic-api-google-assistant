@@ -48,11 +48,11 @@
 
 	![configure consent](images/12-assistant-consent.png)
 
-- You can type in your email address and project name into the boxes and leave the other fields blank if you like. Then save the screen setup.
+- You can type your email address and project name into the boxes and leave the other fields blank if you like. Then click **Save**.
 
 	![consent 2](images/13-assistant-consent2.png)
 
-- On the main screen, you can now choose **Other** as your application type and give it any name you choose. Then click **Create**.
+- On the main screen, you can now choose **Other** as your application type and give your application any name you choose. Then click **Create**.
 
 	![oauth2](images/14-assistant-oauth2.png)
 
