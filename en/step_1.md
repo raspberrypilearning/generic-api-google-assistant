@@ -56,10 +56,10 @@
 
 	![oauth2](images/14-assistant-oauth2.png)
 
-- You should be presented with your **client ID** and **client secret**. You can just click on **OK** though, as you're going to just download a **json** file containing these details.
+- You should be presented with your **client ID** and **client secret**. You can just click on **OK** though, as you're going to download a **JSON** file containing these details.
 
 	![secrets](images/15-assistant-secrets.png)
 
-- Click on the **Download** icon to download your secrets to your computer, and you should be finished.
+- Click on the **Download** icon to download your secrets to your computer, and then you're finished.
 
 	![download secrets](images/16-assistant-download.png)
