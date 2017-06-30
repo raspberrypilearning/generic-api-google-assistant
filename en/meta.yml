@@ -1,6 +1,6 @@
 title: Register for the Google Assistant API
 hero_image: images/banner.png
-description: How to register the Google Assistant API
+description: How to register for the Google Assistant API
 original_url:
 theme: cc-prototype
 duration: 1
@@ -9,4 +9,4 @@ ingredient: true
 interests:
 technology: "api"
 steps:
-  - title: Register the API
+  - title: Register for the API
